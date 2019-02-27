@@ -1,0 +1,15 @@
+@angular/tsc-wrapped/node_modules/tsickle/src/decorator-annotator.ts(9,34): error TS7016: Could not find a declaration file for module 'source-map'. 'D:/Yogesh/git/tsc-wrapped-old/@angular/tsc-wrapped/node_modules/source-map/source-map.js' implicitly has an 'any' type.
+@angular/tsc-wrapped/node_modules/tsickle/src/main.ts(12,27): error TS7016: Could not find a declaration file for module 'minimist'. 'D:/Yogesh/git/tsc-wrapped-old/@angular/tsc-wrapped/node_modules/minimist/index.js' implicitly has an 'any' type.
+@angular/tsc-wrapped/node_modules/tsickle/src/main.ts(13,25): error TS7016: Could not find a declaration file for module 'mkdirp'. 'D:/Yogesh/git/tsc-wrapped-old/@angular/tsc-wrapped/node_modules/mkdirp/index.js' implicitly has an 'any' type.
+@angular/tsc-wrapped/node_modules/tsickle/src/rewriter.ts(9,34): error TS7016: Could not find a declaration file for module 'source-map'. 'D:/Yogesh/git/tsc-wrapped-old/@angular/tsc-wrapped/node_modules/source-map/source-map.js' implicitly has an 'any' type.
+@angular/tsc-wrapped/node_modules/tsickle/src/source_map_utils.ts(1,53): error TS7016: Could not find a declaration file for module 'source-map'. 'D:/Yogesh/git/tsc-wrapped-old/@angular/tsc-wrapped/node_modules/source-map/source-map.js' implicitly has an 'any' type.
+@angular/tsc-wrapped/node_modules/tsickle/src/tsickle.ts(9,34): error TS7016: Could not find a declaration file for module 'source-map'. 'D:/Yogesh/git/tsc-wrapped-old/@angular/tsc-wrapped/node_modules/source-map/source-map.js' implicitly has an 'any' type.
+@angular/tsc-wrapped/node_modules/tsickle/src/tsickle_compiler_host.ts(2,34): error TS7016: Could not find a declaration file for module 'source-map'. 'D:/Yogesh/git/tsc-wrapped-old/@angular/tsc-wrapped/node_modules/source-map/source-map.js' implicitly has an 'any' type.
+@angular/tsc-wrapped/node_modules/tsickle/src/tsickle_compiler_host.ts(197,62): error TS2339: Property 'path' does not exist on type 'SourceFile'.
+@angular/tsc-wrapped/node_modules/tsickle/src/tsickle_compiler_host.ts(331,65): error TS2339: Property 'path' does not exist on type 'SourceFile'.
+@angular/tsc-wrapped/node_modules/tsickle/src/type-translator.ts(114,20): error TS2339: Property 'Instantiated' does not exist on type 'typeof SymbolFlags'.
+@angular/tsc-wrapped/node_modules/tsickle/src/type-translator.ts(115,20): error TS2339: Property 'Merged' does not exist on type 'typeof SymbolFlags'.
+@angular/tsc-wrapped/node_modules/tsickle/src/type-translator.ts(118,20): error TS2339: Property 'SyntheticProperty' does not exist on type 'typeof SymbolFlags'.
+@angular/tsc-wrapped/node_modules/tsickle/src/type-translator.ts(171,9): error TS2322: Type '{ writeKeyword: (text: string) => string; writeOperator: (text: string) => string; writePunctuati...' is not assignable to type 'SymbolWriter'.
+  Property 'reportIllegalExtends' is missing in type '{ writeKeyword: (text: string) => string; writeOperator: (text: string) => string; writePunctuati...'.
+@angular/tsc-wrapped/node_modules/tsickle/src/type-translator.ts(433,24): error TS7017: Element implicitly has an 'any' type because type 'Map<Symbol>' has no index signature.
